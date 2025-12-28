@@ -1,0 +1,17 @@
+#h3 {background-color: beige;}
+h3 {background-color: yellow; font-size: 30px;}
+.h3 {background-color: aqua; color: aliceblue;}
+
+
+#div1 {background-color: gold; width: 200px; height: 200px;}
+.class01 {background-color: khaki; width: 200px; height: 200px;}
+.class02 {background-color: salmon; width: 200px; height: 200px;}
+#div1, .class01, .class02 {color: cadetblue; width: 400px;}
+#div2 {width: 200px;}
+.class03 {height: 200px; background-color: gray;}
+#div3{color: blue; width: 200px;}
+#div4{background-color: aqua;}
+
+
+h1 {color: aquamarine;}
+h1 {background-color: gray;}
